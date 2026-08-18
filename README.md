@@ -48,7 +48,9 @@ There is no penalty for a wrong guess: a board stays up until the words are foun
 
 Every one is generated and checked offline so a layout never fails live, and no puzzle repeats until the whole language has cycled. Matching is exact once accents are folded, so a phone-typed word still counts.
 
-## Gameplay
+## What it looks like on stream
+
+<img src="stream.webp" alt="Word Cross running on a TikTok Live" width="320">
 
 [Watch Word Cross gameplay](https://cdn.livecade.io/games/word-cross.mp4)
 
